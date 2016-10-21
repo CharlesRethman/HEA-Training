@@ -1,0 +1,8 @@
+# OSX files
+.DS_Store
+
+# Lock files for LibreOffice
+.~lock*
+
+# Lock files for MS Office
+
